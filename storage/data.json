@@ -1,0 +1,33 @@
+{
+  "users": {
+    "1132276334": {
+      "username": "KorbenDl",
+      "join_date": "now"
+    }
+  },
+  "favorites": {
+    "1132276334": [
+      {
+        "id": "52881",
+        "name": "Steak and Kidney Pie",
+        "category": "Beef",
+        "area": "British"
+      },
+      {
+        "id": "52777",
+        "name": "Mediterranean Pasta Salad",
+        "category": "Seafood",
+        "area": "Italian"
+      },
+      {
+        "id": "53014",
+        "name": "Pizza Express Margherita",
+        "category": "Miscellaneous",
+        "area": "Italian"
+      }
+    ]
+  },
+  "menus": {
+    "1132276334": {}
+  }
+}
